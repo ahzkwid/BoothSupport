@@ -27,4 +27,8 @@ Demoでリボンが見えない問題を修正
 
 2024-03-02
 v2.0.3
-ベレーのShapeKey追加
+ベレーのShapeKey追加 (RingOff, EarOff)
+
+2024-03-02
+v2.0.4
+ベレーのShapeKey追加 (MoveY, MoveZ, AngleX, Size)
