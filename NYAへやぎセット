@@ -26,8 +26,7 @@ v1.0.5
 青いリボン、黒いリボンを追加
 NYAバージョン、青いバージョンのアップロードIDが入ってる問題を修正
 
-
-2024-02-28
+2024-03-04
 v1.0.6
 ChiffonHeyagiWindowが一回だけ出るようにしました
-ヘアピンのシェイプキーを追加（MoveY, MoveYm, MoveZ, MoveZm）
+ヘアピンのShapeKeyを追加（MoveY, MoveYm, MoveZ, MoveZm）
