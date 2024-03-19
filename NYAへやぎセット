@@ -30,3 +30,10 @@ NYAバージョン、青いバージョンのアップロードIDが入ってる
 v1.0.6
 ChiffonHeyagiWindowが一回だけ出るようにしました
 ヘアピンのShapeKeyを追加（MoveY, MoveYm, MoveZ, MoveZm）
+
+
+2024-03-19
+v1.0.7
+KisekaePrefabがよく見える場所に移動
+腰のOutline調整
+腰のWeightがよりキレイに調整
