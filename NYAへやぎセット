@@ -37,3 +37,7 @@ v1.0.7
 KisekaePrefabがよく見える場所に移動
 腰のOutline調整
 腰のWeightがよりキレイに調整
+
+2024-03-24
+v1.0.8
+blendshapeがない問題を修正
