@@ -16,7 +16,7 @@ v1.1.1
 2024-03-17
 v1.1.2
 テクスチャとノーマルマップが異なる問題を修正
-足のweightがきれいに見えるように修正
+腰のweightがきれいに見えるように修正
 脇の下のoutlineのvertexを削除
 
 2024-03-20
@@ -35,3 +35,7 @@ v1.1.5
 ComfySweatshirt Hairpin Prefab、Chiffon Demo Hairpinの追加
 BadgeのMoveXシェイプキーを追加
 PSDの猫と背景Layerを分離
+
+2024-04-01
+v1.1.6
+腰のweightの一部をv1.1.1に戻しました
