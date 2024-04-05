@@ -7,3 +7,5 @@ v1.0.2
 defaultShadowDistanceのデフォルトを10〜150から10〜80に変更
 v1.0.3
 uiのNavigationをnoneに変更
+v1.0.4
+frameCheckTimeCycleのデフォルトを1秒から3秒に変更
