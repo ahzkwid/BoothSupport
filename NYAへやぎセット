@@ -41,3 +41,10 @@ KisekaePrefabがよく見える場所に移動
 2024-03-24
 v1.0.8
 blendshapeがない問題を修正
+
+2024-04-15
+v1.1.0
+BlendshapeAutoSetter追加
+
+v1.2.0
+DescriptorAutoSetter追加
