@@ -13,3 +13,8 @@ v1.0.3
 v1.0.4
 星の色を白から黄色に変更
 BlendshapeAutoSetterUIデザインの変更
+
+2024-04-18
+v1.1.0
+PrefabのHipsのpositionを（0，0.3802426、0）から（0，0.3802426、-0.01990326）に変更。fbxでは（0，0.3802426、0）です
+PositionAutoSetter追加
