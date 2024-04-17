@@ -18,3 +18,4 @@ BlendshapeAutoSetterUIデザインの変更
 v1.1.0
 PrefabのHipsのpositionを（0，0.3802426、0）から（0，0.3802426、-0.01990326）に変更。fbxでは（0，0.3802426、0）です
 PositionAutoSetter追加
+ModularAvatarでHipsの認識不可能問題を修正
