@@ -44,3 +44,9 @@ ChiffonSeraWindowが一回だけ出るようにしました
 v2.2.0
 ピンクバージョンの鞄 Off (似合わないので)
 AutoSetter追加
+
+
+2024-04-19
+v2.3.0
+鞄のシェイプキー TurnStrap,Side2,Inside,Front,TurnStrap2を追加
+PositionAutoSetter追加
