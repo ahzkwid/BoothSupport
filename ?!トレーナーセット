@@ -19,3 +19,9 @@ v1.1.0
 PrefabのHipsのpositionを（0，0.3802426、0）から（0，0.3802426、-0.01990326）に変更。fbxでは（0，0.3802426、0）です
 ObjectAutoSetter、PositionAutoSetter追加
 ModularAvatarでHipsの認識不可能問題を修正
+
+2024-04-19
+v1.2.0
+Shorts.psd追加
+ComfySweatshirt Black追加
+絵を修正
