@@ -6,3 +6,8 @@ v1.0.0
 v1.0.1
 Headset.SpeakerThickness ShapeKey 0 -> 50
 Medi Pistol Leg Prefab 追加
+
+
+2024-05-11
+v1.0.2
+DescriptorAutoSetterが動かない問題を修正
