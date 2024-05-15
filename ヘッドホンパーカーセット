@@ -12,3 +12,6 @@ DescriptorAutoSetterが動かない問題を修正
 
 v1.0.3
 腕関節のポリゴンが低すぎる問題を修正
+
+v1.0.4
+Unity2019対応
