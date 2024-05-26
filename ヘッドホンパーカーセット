@@ -54,11 +54,19 @@ v1.1.6
 AudioPanelのShapeKey変更
 壊れたShapeKeyの修理
 
+v1.1.7
+2024-05-27
+AudioPanelのAudioLinkが動かない問題を修正
+
 
 ✪ マヌカ ✪
 2024-05-10
 v1.0.0
 公開
+
+2024-05-27
+v1.0.0
+AudioPanelのAudioLinkが動かない問題を修正
 
 ✪ PSD ✪
 2024-05-21
