@@ -80,13 +80,22 @@ DynamicHoodieZipper.001のBoneが無い問題を修正
 v1.0.3
 メッシュをもっときれいに見えるように修正
 
+✪ 真冬 ✪
+2024-06-04
+v1.0.0
+公開
+
 ✪ PSD ✪
 2024-05-21
 v1.0.0
 元のパッケージから分離
 
 
-✪ MaterialPack ✪
+✪ TexturePack ✪
 2024-06-01
 v1.0.0
 元のパッケージから分離
+
+2024-06-04
+v1.0.1
+MaterialPack -> TexturePack
