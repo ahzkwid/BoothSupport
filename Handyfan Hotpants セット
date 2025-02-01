@@ -46,6 +46,11 @@ ExpressionsMenu Iconを追加
 v1.1.1
 EasyWear v2.2.0 対応
 
+2025-02-02
+v1.1.1
+All offボタンを追加
+EasyWear v2.9.1にアップデート
+
 
 
 
@@ -67,6 +72,7 @@ ExpressionsMenu Iconを追加
 2024-10-05
 v1.1.1
 EasyWear v2.2.0 対応
+
 
 
 
@@ -99,3 +105,15 @@ v1.0.0
 2024-09-15
 v1.0.1
 シャツの背中のUVをよりキレイに修正
+
+
+
+
+✪ Textures ✪
+2024-09-12
+v1.0.0
+
+2025-01-31
+v1.2.0
+OFF画像を追加
+CapのBaseMapがない問題を修正
