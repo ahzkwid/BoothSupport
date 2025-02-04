@@ -237,6 +237,11 @@ ExpressionsMenuを追加
 v2.1.1
 胸サイズアニメーションにBreast_smallが無い問題を修正
 
+2025-02-04
+v2.2.0
+All offボタンを追加
+EasyWear v2.9.1にアップデート
+DemoプレハブとNothingプレハブを隠す
 
 
 
@@ -271,6 +276,10 @@ TexturePack -> Textures
 2025-01-31
 v1.2.0
 OFF画像を追加
+
+2025-02-04
+v1.3.1
+OFF画像のフォルダをICONに移動
 
 
 ✪ MediPistol ✪
