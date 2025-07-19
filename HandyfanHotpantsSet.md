@@ -17,26 +17,42 @@ EasyWear v2.2.0 対応
 
 
 ✪ ルルネ - 瑞希 ✪
+
 2024-09-12
+
 v1.0.0
 
 2024-09-15
+
 v1.0.1
+
 シャツの背中のUVをよりキレイに修正
 
 2024-09-14
+
 v1.0.1
+
 ルルネのバックルマテリアルが変わらない問題を修正
 
+
+
 2024-09-15
+
 v1.0.2
+
 シャツの背中のUVをよりキレイに修正
 
+
+
+
 2024-09-27
+
 v1.0.3
-ruruneに右肩当たりに少し腕が貫通する問題修正
-https://github.com/ahzkwid/BoothSupport/issues/15
-<img width="752" height="609" alt="image" src="https://github.com/user-attachments/assets/b78f07bf-e531-4ee8-8439-038526816bf4" />
+
+ruruneに右肩当たりに少し腕が貫通する問題修正 https://github.com/ahzkwid/BoothSupport/issues/15
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b78f07bf-e531-4ee8-8439-038526816bf4" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/eeb02c69-a1fb-480c-b1d6-d7f546c4f4d0" />
 
 
 
