@@ -36,6 +36,13 @@ v1.0.2
 v1.0.3
 ruruneに右肩当たりに少し腕が貫通する問題修正
 https://github.com/ahzkwid/BoothSupport/issues/15
+<img width="752" height="609" alt="image" src="https://github.com/user-attachments/assets/b78f07bf-e531-4ee8-8439-038526816bf4" />
+
+
+
+
+
+
 
 2024-10-03
 v1.1.0
