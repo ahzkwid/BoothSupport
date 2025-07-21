@@ -2,4 +2,4 @@
 
 Booth : https://ahzkwid.booth.pm/
 
-Issues : https://github.com/ahzkwid/BoothSupport/issues
+お問い合わせ : https://github.com/ahzkwid/BoothSupport/issues
