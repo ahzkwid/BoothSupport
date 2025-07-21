@@ -1,4 +1,5 @@
+このホームページはブースのサポートページです
 
-利用規約
+Booth : https://ahzkwid.booth.pm/
 
-https://ahzkwid.github.io/BoothSupport/TermsofUse/Outfit/Default/
+Issues : https://github.com/ahzkwid/BoothSupport/issues
