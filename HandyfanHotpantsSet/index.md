@@ -1,7 +1,7 @@
 
-<pre>
 
-✪ 扇風機 ✪
+# ✪ 扇風機 ✪
+<pre>
 2024-09-12
 v1.0.0
 
@@ -13,10 +13,11 @@ ExpressionsMenu Iconを追加
 2024-10-05
 v1.0.3
 EasyWear v2.2.0 対応
+</pre>
 
 
-
-✪ ルルネ - 瑞希 ✪
+# ✪ ルルネ - 瑞希 ✪
+<pre>
 2024-09-12
 v1.0.0
 
@@ -62,11 +63,13 @@ EasyWear v2.9.2にアップデート
 Expressions Menu名変更 HFHP -> Hotpants
 
 
+</pre>
 
 
 
 
-✪ 愛莉 ✪
+# ✪ 愛莉 ✪
+<pre>
 2024-09-12
 v1.0.0
 
@@ -83,11 +86,13 @@ ExpressionsMenu Iconを追加
 v1.1.1
 EasyWear v2.2.0 対応
 
+</pre>
 
 
 
 
-✪ 萌 ✪
+# ✪ 萌 ✪
+<pre>
 2024-09-12
 v1.0.0
 
@@ -104,11 +109,13 @@ ExpressionsMenu Iconを追加
 v1.1.1
 EasyWear v2.2.0 対応
 
+</pre>
 
 
 
 
-✪ PSD ✪
+# ✪ PSD ✪
+<pre>
 2024-09-13
 v1.0.0
 
@@ -116,10 +123,12 @@ v1.0.0
 v1.0.1
 シャツの背中のUVをよりキレイに修正
 
+</pre>
 
 
 
-✪ Textures ✪
+# ✪ Textures ✪
+<pre>
 2024-09-12
 v1.0.0
 
