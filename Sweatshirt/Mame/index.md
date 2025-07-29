@@ -2,7 +2,6 @@
 
 <pre>
 
-✪ Wanトレーナーセット ✪
 
 2023-02-07
 v1.0.1
@@ -27,7 +26,6 @@ Bone Broth, Clover, BoneBroth バリエーションのデモを追加
 v1.1.2
 AchorOverrideが無い問題を修正
 
-✪ Milkトレーナーセット ✪
 2024-07-13
 v2.0.0
 キプフェル対応
