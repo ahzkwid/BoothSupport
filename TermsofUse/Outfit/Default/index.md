@@ -39,7 +39,8 @@
   
 <pre>
 可能
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b9e3ad5e-7fd4-486c-9660-b3743d90419d" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/5494c35b-4d31-4fd8-a743-803cef570409" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b9e3ad5e-7fd4-486c-9660-b3743d90419d" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/aabb1582-951d-4448-ac71-5c20a2314aad" />
+
 </pre>
 
 2枚目の画像には一部元のテクスチャが含まれておりますが、メッシュと一体化して使用される3D表現の特性上、販売への影響は軽微であると判断し、配布を許可いたします。このような判断は極めて主観的なものであるため、可能な限り含めないことを推奨いたします。
