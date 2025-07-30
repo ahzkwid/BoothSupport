@@ -52,7 +52,7 @@
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8ac395e-8843-48e2-a817-30b741e50e47" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fccc79c9-bc38-4f83-af96-61fdc0c44d77" />
 </pre>
 
-上記のような例は、当商品の販売に悪影響を及ぼすおそれがあるため、配布を禁止しております。
+上記のような当該テクスチャには単独で使用可能な独自の画像が含まれており、当商品の販売に悪影響を及ぼすおそれがあるため、配布を禁止しております。
 ご理解とご協力のほど、よろしくお願いいたします。
 
 
