@@ -39,7 +39,7 @@
   
 <pre>
 可能
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b9e3ad5e-7fd4-486c-9660-b3743d90419d" /><img width="364" height="368" alt="image" src="https://github.com/user-attachments/assets/6f84d96e-72e6-47ee-96ed-df79afc6c116" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b9e3ad5e-7fd4-486c-9660-b3743d90419d" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6f84d96e-72e6-47ee-96ed-df79afc6c116" />
 
 
 </pre>
