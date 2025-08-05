@@ -29,7 +29,6 @@
 
 上記の条件に従い、衣装の販売に不利益を与えない範囲で、booth.pm上で二次創作したテクスチャの配布が可能です。  
 例えば、衣装に付属しているトレードマーク、キャラクター、マスコットなどを含めてはいけません。  
-影やアウトラインの追加程度は許容されますが、可能であれば透過レイヤーを使用したオーバーレイ形式での配布を推奨します。  
 重要な画像を含む場合や、著しく不利益を与えると判断された場合には、配布の中止をお願いすることがあります。
 
 例えば、以下はこの二次創作画像を配布する場合の一例となります。
@@ -39,19 +38,17 @@
   
 <pre>
 可能
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b9e3ad5e-7fd4-486c-9660-b3743d90419d" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6f84d96e-72e6-47ee-96ed-df79afc6c116" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b9e3ad5e-7fd4-486c-9660-b3743d90419d" />
 
 
 </pre>
 
-2枚目の画像には一部元のテクスチャが含まれておりますが、メッシュと結合して使用される3Dモデルの特性上、意味を成さないデータと判断し、販売への影響はないものとし、配布を許可いたします。
-このような判断は極めて主観的なものであるため、可能な限り含めないことを推奨いたします。  
-また、このようなテクスチャであっても、悪用が確認された場合には、配布の中止をお願いさせていただくことがございます。
+
 
 
 <pre>
 不可能
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8ac395e-8843-48e2-a817-30b741e50e47" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fccc79c9-bc38-4f83-af96-61fdc0c44d77" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/e201141d-98c6-46dd-b398-6fb3f753eda3" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f8ac395e-8843-48e2-a817-30b741e50e47" /><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/fccc79c9-bc38-4f83-af96-61fdc0c44d77" />
 </pre>
 
 上記のような当該テクスチャには単独で使用可能な独自の画像が含まれており、当商品の販売に悪影響を及ぼすおそれがあるため、配布を禁止しております。
