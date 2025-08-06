@@ -31,9 +31,9 @@
 ### 人に不快感を与えるコンテンツ、宗教的、政治的、詐称、詐欺や不当に差別もしくは誹謗などを目的とした利用を禁止します。
 ### 著作権者の名誉と信用を毀損する目的の使用を禁止します。
 
-<img width="497" height="498" alt="image" src="https://github.com/user-attachments/assets/df1645f8-4450-4a44-9ea0-6a3cf2300b44" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/df1645f8-4450-4a44-9ea0-6a3cf2300b44" />
 
-<img width="494" height="491" alt="image" src="https://github.com/user-attachments/assets/720689ae-7ec2-4f30-a58e-d4fb16673732" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/720689ae-7ec2-4f30-a58e-d4fb16673732" />
 
 ### 動画や生放送、スクリーンショットの場合、商用利用も可能です。
 
