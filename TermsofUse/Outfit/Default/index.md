@@ -15,7 +15,7 @@
  
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1723bf2b-d451-4ca9-82a4-c9208bb5205e" />
 
-### VRChatのパブリックアバターに使用することも禁止します。
+### VRChatのパブリックアバターに配布することも禁止します。
   非購入者が使用できるように間接的に配布しようとしないでください。
 
 ### 動画や生放送、スクリーンショットの場合、商用利用も可能です。
