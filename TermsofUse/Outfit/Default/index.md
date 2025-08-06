@@ -14,6 +14,7 @@
 　本モデルのデータを一部でも使用して、自分の著作物として配布することは禁止します。
  
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/1723bf2b-d451-4ca9-82a4-c9208bb5205e" />
+
 ### VRChat public avatarに使用することも禁止します。
   非購入者が使用できるように間接的に配布しようとしないでください。
 
