@@ -70,7 +70,7 @@ v2.2.0
   
 2025-08-20 (1h)
 v2.2.1
-<img width="1258" height="861" alt="image" src="https://github.com/user-attachments/assets/496d6339-8388-4f34-bf15-a19dee42199a" />
+<img width="629" height="430" alt="image" src="https://github.com/user-attachments/assets/496d6339-8388-4f34-bf15-a19dee42199a" />
 アズキ対応衣装の影が弱くなりました
 
 
