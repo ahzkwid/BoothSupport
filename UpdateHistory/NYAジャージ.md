@@ -35,7 +35,7 @@ v1.0.1
 
 アウトラインマスクが入っていない問題を修正
 
-<img width="757" height="437" alt="image" src="https://github.com/user-attachments/assets/91faf5e9-87c6-41f5-b850-ca85534032ec" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/91faf5e9-87c6-41f5-b850-ca85534032ec" />
 
 
 # ✪ Textures ✪
