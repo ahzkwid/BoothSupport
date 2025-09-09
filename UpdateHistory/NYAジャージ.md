@@ -29,6 +29,15 @@ v1.0.0
 公開
 
 
+2025-09-09
+
+v1.0.1
+
+アウトラインマスクが入っていない問題を修正
+
+<img width="757" height="437" alt="image" src="https://github.com/user-attachments/assets/91faf5e9-87c6-41f5-b850-ca85534032ec" />
+
+
 # ✪ Textures ✪
 
 2025-08-30
