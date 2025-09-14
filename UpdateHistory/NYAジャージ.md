@@ -24,7 +24,7 @@
 
 ### v1.0.2
 
-<img width="895" height="169" alt="image" src="https://github.com/user-attachments/assets/1c516070-0203-4647-84eb-4e8f8b938036" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1c516070-0203-4647-84eb-4e8f8b938036" />
 
 Armatureの Positionが 0でない問題を修正
 
@@ -33,11 +33,13 @@ Armatureの Positionが 0でない問題を修正
 ### v1.0.3
 
 
-<img width="842" height="424" alt="image" src="https://github.com/user-attachments/assets/587b27c2-c1ed-4fb1-a67e-15572fecf3b2" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/587b27c2-c1ed-4fb1-a67e-15572fecf3b2" />
 
 LegWarmerが貫通する問題を修正
 
+<img width="438" height="197" alt="image" src="https://github.com/user-attachments/assets/a41545af-1f62-4cd9-8218-ac99ed962f96" />
 
+Avatar Definition 追加
 
 
 # ✪ ミルフィ ✪
