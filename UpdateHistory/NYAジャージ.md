@@ -46,6 +46,14 @@ Avatar Definition 追加
 Shoesがセンターではない問題を修正
 
 
+### v1.0.4
+
+<img width="1012" height="500" alt="image" src="https://github.com/user-attachments/assets/80f895c4-e6fa-4b41-9f9a-44703ba66592" />
+
+Shirtのアウトラインが貫通する問題を修正
+
+50% 軽量化 
+
 
 # ✪ ミルフィ ✪
 
