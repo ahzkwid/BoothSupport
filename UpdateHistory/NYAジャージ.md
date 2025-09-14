@@ -37,7 +37,7 @@ Armatureの Positionが 0でない問題を修正
 
 LegWarmerが貫通する問題を修正
 
-<img width="438" height="197" alt="image" src="https://github.com/user-attachments/assets/a41545af-1f62-4cd9-8218-ac99ed962f96" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a41545af-1f62-4cd9-8218-ac99ed962f96" />
 
 Avatar Definition 追加
 
@@ -111,5 +111,5 @@ Shortsアウトラインマスクの追加
 
 Shortsアウトラインマスクの追加
 
-<img width="813" height="288" alt="image" src="https://github.com/user-attachments/assets/cffa1101-777d-4064-bce0-6061cc6cd5bb" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/cffa1101-777d-4064-bce0-6061cc6cd5bb" />
 
