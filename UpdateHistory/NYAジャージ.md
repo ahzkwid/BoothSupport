@@ -41,6 +41,7 @@ LegWarmerが貫通する問題を修正
 
 Avatar Definition 追加
 
+衣装のスケールが1ではない問題を修正
 
 # ✪ ミルフィ ✪
 
