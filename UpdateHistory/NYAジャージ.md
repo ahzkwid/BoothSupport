@@ -58,6 +58,8 @@ Shirtのアウトラインが貫通する問題を修正
 
 JerseyとShortsのPositionが合わない問題を修正
 
+Shortsアウトラインマスクの追加
+
 
 # ✪ ミルフィ ✪
 
@@ -77,6 +79,15 @@ JerseyとShortsのPositionが合わない問題を修正
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/91faf5e9-87c6-41f5-b850-ca85534032ec" />
 
 
+
+## 2025-09-15
+
+### v1.0.2
+
+50% 軽量化 
+
+Shortsアウトラインマスクの追加
+
 # ✪ Textures ✪
 
 ## 2025-08-30
@@ -94,3 +105,11 @@ JerseyとShortsのPositionが合わない問題を修正
 アウトラインマスクの改善
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d2280413-5965-47a9-9abd-2e7e05af22db" />
+
+
+### v1.0.2
+
+Shortsアウトラインマスクの追加
+
+<img width="813" height="288" alt="image" src="https://github.com/user-attachments/assets/cffa1101-777d-4064-bce0-6061cc6cd5bb" />
+
