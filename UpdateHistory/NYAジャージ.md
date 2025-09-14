@@ -46,6 +46,8 @@ Avatar Definition 追加
 Shoesがセンターではない問題を修正
 
 
+## 2025-09-15
+
 ### v1.0.4
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/80f895c4-e6fa-4b41-9f9a-44703ba66592" />
@@ -53,6 +55,8 @@ Shoesがセンターではない問題を修正
 Shirtのアウトラインが貫通する問題を修正
 
 50% 軽量化 
+
+JerseyとShortsのPositionが合わない問題を修正
 
 
 # ✪ ミルフィ ✪
