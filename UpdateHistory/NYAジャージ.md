@@ -1,6 +1,6 @@
 # NYAジャージセット
 
-# ✪ ショコラ・シフォン ✪
+# ✪ ショコラ ✪
 
 ## 2025-08-30
 
@@ -18,6 +18,15 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/233b6dfe-0894-43b7-a74f-0f3f77b989a2" />
 
 ウェイト変更
+
+
+## 2025-09-14
+
+### v1.0.2
+
+<img width="895" height="169" alt="image" src="https://github.com/user-attachments/assets/1c516070-0203-4647-84eb-4e8f8b938036" />
+
+Armatureの Positionが 0でない問題を修正
 
 
 # ✪ ミルフィ ✪
