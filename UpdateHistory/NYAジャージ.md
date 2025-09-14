@@ -29,6 +29,17 @@
 Armatureの Positionが 0でない問題を修正
 
 
+
+### v1.0.3
+
+
+<img width="842" height="424" alt="image" src="https://github.com/user-attachments/assets/587b27c2-c1ed-4fb1-a67e-15572fecf3b2" />
+
+LegWarmerが貫通する問題を修正
+
+
+
+
 # ✪ ミルフィ ✪
 
 ## 2025-08-30
