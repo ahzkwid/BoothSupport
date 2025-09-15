@@ -9,9 +9,10 @@
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/97d9a37e-9d82-4557-9f3e-777ed1127736" />
 
+衣装をドラッグ＆ドロップします。
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/875c1ac1-d521-4ac6-b629-dcea1160e617" />
 
-衣装をドラッグ＆ドロップします。
 
 おわり
 
