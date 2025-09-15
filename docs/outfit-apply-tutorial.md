@@ -1,5 +1,8 @@
 # 衣装の導入方法
 
+<iframe width="560" height="560" src="https://www.youtube.com/embed/v7SKWdi48Q0?si=4uZThbZ0B3Ya1ylT" frameborder="0" allowfullscreen sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-presentation"></iframe>
+
+
 <img width="609" height="622" alt="image" src="https://github.com/user-attachments/assets/5f0ef2b8-90fc-4ca2-b8e9-096e91f38bed" />
 
 まずキャラクターを配置します。
