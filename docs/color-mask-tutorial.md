@@ -1,7 +1,7 @@
 # カラーマスクで色を変更する方法
 
 
-<iframe width="560" height="560" src="https://www.youtube.com/embed/Xky9Uo8DiaU?si=A2N6vaY5ablFBlaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xky9Uo8DiaU?si=A2N6vaY5ablFBlaT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 Unity上で簡単に色を変更できるカラーマスクが含まれています。
