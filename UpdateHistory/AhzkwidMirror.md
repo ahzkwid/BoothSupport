@@ -1,21 +1,25 @@
 # v1
 ## 2018
 ![](https://github.com/user-attachments/assets/8dfec09f-dac9-464f-8248-1b6d6c119896)
+
 初期型
 
 # v2
 ## 2019
 ![](https://github.com/user-attachments/assets/6d9d90ed-ce3f-40eb-9526-5f6811cc9636)
+
 ボタン追加
 
 # v3
 ## 2020
 ![](https://github.com/user-attachments/assets/d28f0ddb-e9c2-446a-9251-893ecb0e2cfd)
+
 カメラ式透過ミラー追加
 
 # v4
 ## 2022-12-24
 ![](https://github.com/user-attachments/assets/46bbce26-65f3-4154-8b97-fe728a57861a)
+
 シェーダー式透過ミラー追加
 
 # v5
@@ -35,6 +39,7 @@ UI改善
 ## 2025-09-12
 ### v5.0.3
 ミラー裏からネームプレートが見える現象を修正  
+
 まれに不透明ボタンが動作しない現象を修正
 
 ## 2025-09-13
