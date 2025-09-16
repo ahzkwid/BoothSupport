@@ -11,6 +11,6 @@ uiのNavigationをnoneに変更
 frameCheckTimeCycleのデフォルトを1秒から3秒に変更
 
 
-# 2025-09-16
+# 2025-09-15
 ## v1.0.5
 frameCheckTimeCycleのデフォルトを1秒から3秒に変更
