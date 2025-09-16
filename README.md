@@ -18,3 +18,7 @@ https://ahzkwid.github.io/BoothSupport/docs/hairpin-position-tutorial
 # 利用規約
 ## 衣装
 https://ahzkwid.github.io/BoothSupport/TermsofUse/Outfit/Default/
+
+# 更新履歴
+## Automatic Shadow Distance
+https://ahzkwid.github.io/BoothSupport/blob/main/AutomaticShadowDistance
