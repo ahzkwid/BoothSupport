@@ -21,4 +21,4 @@ https://ahzkwid.github.io/BoothSupport/TermsofUse/Outfit/Default/
 
 # 更新履歴
 ## Automatic Shadow Distance
-https://ahzkwid.github.io/BoothSupport/blob/main/AutomaticShadowDistance
+https://ahzkwid.github.io/BoothSupport/UpdateHistory/AutomaticShadowDistance
