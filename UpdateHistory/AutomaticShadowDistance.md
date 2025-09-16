@@ -1,11 +1,16 @@
 
 
-2024-04-05
-v1.0.1
+# 2024-04-05
+## v1.0.1
 variableの名前変更
-v1.0.2
+## v1.0.2
 defaultShadowDistanceのデフォルトを10〜150から10〜80に変更
-v1.0.3
+## v1.0.3
 uiのNavigationをnoneに変更
-v1.0.4
+## v1.0.4
+frameCheckTimeCycleのデフォルトを1秒から3秒に変更
+
+
+# 2025-09-16
+## v1.0.5
 frameCheckTimeCycleのデフォルトを1秒から3秒に変更
