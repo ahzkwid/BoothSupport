@@ -25,6 +25,9 @@ https://ahzkwid.github.io/BoothSupport/UpdateHistory/AutomaticShadowDistance
 ## LOD透明ミラー
 https://ahzkwid.github.io/BoothSupport/UpdateHistory/AhzkwidMirror
 
+## Ahzkwid Chess
+https://ahzkwid.github.io/BoothSupport/UpdateHistory/AhzkwidChess
+
 
 
 
