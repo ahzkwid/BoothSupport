@@ -14,6 +14,7 @@
 
 # v4.0.0
 ## 2019-12-07
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YqktiIR6jHs?si=4_seTSEeRzR9ijcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 公開
 
 ### v4.0.2
@@ -73,6 +74,7 @@ RedMarker見えない問題を修正
 
 ## 2025-09-22
 ### v5.7.0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3-z2br6cCWQ?si=DouDANqNkKwjpUJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 #### アイドル状態を追加  
 使用していない時はワールドに負担をかけなくなります
 #### Stairが正常に動作しない問題を修正
