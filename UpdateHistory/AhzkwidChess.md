@@ -1,4 +1,4 @@
-# Ahzkwid Chess
+# Ahzkwid Chess更新履歴
 
 # v1
 非公開バージョン(個人ワールド用)
