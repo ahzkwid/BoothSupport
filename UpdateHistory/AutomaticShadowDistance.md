@@ -1,4 +1,4 @@
-
+# AutomaticShadowDistance更新履歴
 
 # 2024-04-05
 ## v1.0.1
