@@ -28,7 +28,8 @@ https://ahzkwid.github.io/BoothSupport/UpdateHistory/AhzkwidMirror
 ## Ahzkwid Chess
 https://ahzkwid.github.io/BoothSupport/UpdateHistory/AhzkwidChess
 
-
+## めくれるこたつ
+https://ahzkwid.github.io/BoothSupport/UpdateHistory/MekureruKotatsu
 
 
 
