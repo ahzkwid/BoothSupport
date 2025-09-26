@@ -61,6 +61,16 @@ JerseyとShortsのPositionが合わない問題を修正
 Shortsアウトラインマスクの追加
 
 
+## 2025-09-27
+
+### v1.1.0
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/1db0f33d-9ef3-4bf1-a4b2-5a78330cf0d7" />
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/47c37651-9279-43f3-90f9-279a8cad6e85" />
+
+Open2のシェイプキーを追加
+
+
 # ✪ ミルフィ ✪
 
 ## 2025-08-30
