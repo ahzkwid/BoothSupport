@@ -71,6 +71,17 @@ Shortsアウトラインマスクの追加
 Open2のシェイプキーを追加
 
 
+
+## 2025-09-28
+
+### v1.1.1
+
+<img width="789" height="285" alt="image" src="https://github.com/user-attachments/assets/03b1bc89-7f1b-4dab-bef7-7c677b96ffba" />
+
+金属が歪んで見える問題を修正
+
+
+
 # ✪ ミルフィ ✪
 
 ## 2025-08-30
@@ -108,6 +119,14 @@ Spine_1 ShapeKeyを100から20に変更
 ### v1.1.0
 Open2のシェイプキーを追加
 
+
+## 2025-09-28
+
+### v1.1.1
+
+<img width="789" height="285" alt="image" src="https://github.com/user-attachments/assets/03b1bc89-7f1b-4dab-bef7-7c677b96ffba" />
+
+金属が歪んで見える問題を修正
 
 
 # ✪ Textures ✪
