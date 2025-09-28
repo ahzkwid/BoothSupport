@@ -87,6 +87,10 @@ Open2のシェイプキーを追加
 
 
 
+### v1.1.3
+<img width="800" height="339" alt="image" src="https://github.com/user-attachments/assets/ef7af61d-3765-419a-b145-19fe71fdfe04" />
+ジッパーの誤ったウェイトを修正
+
 
 # ✪ ミルフィ ✪
 
@@ -134,6 +138,9 @@ Open2のシェイプキーを追加
 
 金属が歪んで見える問題を修正
 
+### v1.1.3
+<img width="800" height="339" alt="image" src="https://github.com/user-attachments/assets/ef7af61d-3765-419a-b145-19fe71fdfe04" />
+ジッパーの誤ったウェイトを修正
 
 # ✪ Textures ✪
 
