@@ -92,6 +92,15 @@ Open2のシェイプキーを追加
 ジッパーの誤ったウェイトを修正
 
 
+
+### v1.1.4
+<img width="953" height="696" alt="image" src="https://github.com/user-attachments/assets/9b73a659-91fb-4fa4-a3a6-d27437de2b0f" />
+
+肩の誤ったウェイトを修正
+
+
+
+
 # ✪ ミルフィ ✪
 
 ## 2025-08-30
@@ -141,6 +150,15 @@ Open2のシェイプキーを追加
 ### v1.1.3
 <img width="800" height="339" alt="image" src="https://github.com/user-attachments/assets/ef7af61d-3765-419a-b145-19fe71fdfe04" />
 ジッパーの誤ったウェイトを修正
+
+
+
+### v1.1.4
+<img width="953" height="696" alt="image" src="https://github.com/user-attachments/assets/9b73a659-91fb-4fa4-a3a6-d27437de2b0f" />
+
+肩の誤ったウェイトを修正
+
+
 
 # ✪ Textures ✪
 
