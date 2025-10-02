@@ -80,6 +80,9 @@ Gumroadでは、東洋圏と著作権意識が大きく異なるため、著作�
 
 
 # 制作者 : ahzkwid (アズキド)
+
 Twitter : @ahzkwid
+
 Gmail : ahzkwid@gmail.com
+
 Pixiv : https://www.pixiv.net/users/3310439
