@@ -77,3 +77,8 @@ Gumroadでは、東洋圏と著作権意識が大きく異なるため、著作�
 
 
 # ない部分はメッセージください
+
+
+# 制作者 : ahzkwid (アズキド)
+Twitter : @ahzkwid
+Gmail : ahzkwid@gmail.com
