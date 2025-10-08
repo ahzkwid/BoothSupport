@@ -1,4 +1,4 @@
-# MYAヘッドホンパーカーセット
+# MYAヘッドホンパーカーセット更新履歴
 
 
 
@@ -179,6 +179,18 @@ Demoプレハブを削除
 v1.0.3
 指が袖を貫通する問題を修正
 </pre>
+
+
+## 2025-10-08
+### v1.1.0
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/e2e65d76-3849-443a-b993-6dee8476e440" />
+
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/f4d0198d-48c1-4dff-a885-cd6fdacf95a1" />
+
+Fit シェイプキーを追加
+
+
+
 
 # ✪ マヌカ ✪
 <pre>
