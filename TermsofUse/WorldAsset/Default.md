@@ -14,6 +14,11 @@
 # 利用範囲
 
 
+
+## ゲーム製作に使用できます
+VRChatのワールドもゲームとして扱います。
+
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/11fe790f-ebb5-4a5b-932e-2eb877a3352f" />
 ## ブースサムネイル利用可能。
 ## 人に不快感を与えるコンテンツ、宗教的、政治的、詐称、詐欺や不当に差別もしくは誹謗などを目的とした利用を禁止します。
@@ -26,9 +31,6 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/720689ae-7ec2-4f30-a58e-d4fb16673732" />
 
 ## 動画や生放送、スクリーンショットの場合、商用利用も可能です。
-
-
-## ゲーム製作に使用できます
 
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/131dcf37-a400-413d-b785-64474a3ace4d" />
