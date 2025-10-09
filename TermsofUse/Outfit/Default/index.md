@@ -37,11 +37,12 @@
 
 ## 動画や生放送、スクリーンショットの場合、商用利用も可能です。
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/131dcf37-a400-413d-b785-64474a3ace4d" />
 
 ## ユーザーが衣装を販売できるプラットフォーム以外のゲーム製作に使用できます
   （ユーザーが衣装を販売できるゲームはプラットフォームとみなします。例: VRC、Roblox、マイクラ、ZEPETOなどは禁止。
   LOL、Overwatchはプラットフォームではないため可能）
+
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/131dcf37-a400-413d-b785-64474a3ace4d" />
 
 ## Gumroad禁止。
 Gumroadでは、東洋圏と著作権意識が大きく異なるため、著作権を侵害するケースが多く見受けられます。そのため、禁止とさせていただきます。
