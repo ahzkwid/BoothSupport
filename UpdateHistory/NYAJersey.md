@@ -111,7 +111,7 @@ Open2のシェイプキーを追加
 ### シフォン用プレハブの指がマージされない問題修正
 
 
-# ✪ ミルフィ ✪
+# ✪ ミルフィ・エク ✪
 
 ## 2025-08-30
 
@@ -167,6 +167,17 @@ Open2のシェイプキーを追加
 <img width="953" height="696" alt="image" src="https://github.com/user-attachments/assets/9b73a659-91fb-4fa4-a3a6-d27437de2b0f" />
 
 肩の誤ったウェイトを修正
+
+
+## 2025-10-11
+### v2.0.0
+エク対応
+
+カスタムボディシステムの削除
+
+メッシュとウェイトの変更
+
+ミルフィの胸が貫通する現象修正 https://github.com/ahzkwid/BoothSupport/issues/19
 
 
 
