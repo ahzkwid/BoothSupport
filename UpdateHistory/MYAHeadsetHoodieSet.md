@@ -214,7 +214,7 @@ Fit シェイプキーを追加
 
 ## 2025-10-12
 ### v1.2.0
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/2cfe67b0-b091-4c3a-b7a1-2b0595c0c5ce" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2cfe67b0-b091-4c3a-b7a1-2b0595c0c5ce" />
 
 
 
