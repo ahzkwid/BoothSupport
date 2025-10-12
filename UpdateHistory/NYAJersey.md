@@ -179,6 +179,14 @@ Open2のシェイプキーを追加
 
 ミルフィの胸が貫通する現象修正 https://github.com/ahzkwid/BoothSupport/issues/19
 
+## 2025-10-12
+### v2.0.1
+
+#### 靴を履くと足が消える問題を修正
+<img alt="image" src="https://github.com/user-attachments/assets/69cdcfa1-9eda-4762-98e4-a82d84f98350" />
+<img alt="image" src="https://github.com/user-attachments/assets/62dd4e57-33aa-4bed-9ee6-4e214b6951a8" />
+
+#### インポート時の Body シェイプキー自動設定を廃止
 
 
 # ✪ Textures ✪
