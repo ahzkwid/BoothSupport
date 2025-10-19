@@ -389,7 +389,8 @@ Shirink Example追加
 
 ### v1.0.2
 kisekaeでもルミナ胸の大きさを調整できるオーバーライドを追加
-
+<img width="1176" height="448" alt="image" src="https://github.com/user-attachments/assets/ef386783-0fda-4444-a521-9062e3e79f44" />
+指の貫通問題と色の問題を修正
 
 
 # ✪ PSD ✪
@@ -405,7 +406,8 @@ kisekaeでもルミナ胸の大きさを調整できるオーバーライドを�
 ### v1.1.0
 ルミナに合わせて「Shirt」のシャドウを改善
 
-
+### v1.1.1
+指の色問題を修正
 
 
 
@@ -441,6 +443,8 @@ OFF画像のフォルダをICONに移動
 ルミナに合わせて「Shirt」のシャドウを改善
 パーカーのアウトラインマスクを追加
 
+### v1.4.1
+指の色問題を修正
 
 
 # ✪ MediPistol ✪
