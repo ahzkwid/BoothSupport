@@ -122,7 +122,7 @@ Open2のシェイプキーを追加
 
 
 ### v1.3.0
-ShoulderNormal Shapekeyを追加
+### ShoulderNormal Shapekeyを追加
 
 
 
