@@ -121,8 +121,8 @@ Open2のシェイプキーを追加
 ### シフォン用プレハブのサポート中断
 
 
-
-
+### v1.3.0
+ShoulderNormal Shapekeyを追加
 
 
 
