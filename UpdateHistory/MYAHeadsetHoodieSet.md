@@ -41,6 +41,18 @@ Fit シェイプキーを追加
 エクのThigh（Hutomomo）が同期されない問題を修正
 
 
+##2025-10-24
+### v2.1.0
+ShapeKey 名の変更 ShirtOffTop->ShirtOffTop
+Open2 ShapeKeyを追加
+
+##2025-10-28
+### v2.1.1
+Shirtボタンが動作しない問題を修正
+
+##2025-10-28
+### v2.1.2
+ShirinkExample追加
 
 
 # ✪ ショコラ・シフォン ✪
@@ -212,6 +224,11 @@ Fitシェイプキーを追加
 ShirinkExmapleを追加
 
 
+## 2025-10-24
+### v2.3.0
+ShapeKey 名の変更 ShirtOffTop->ShirtOffTop
+Open2 ShapeKeyを追加
+
 
 # ✪ しなの ✪
 ## 2024-11-15
@@ -266,6 +283,16 @@ ALL OFFボタンを追加
 
 kisekaeでバストサイズを調整できなかった問題を修正
 
+
+
+## 2025-10-24
+### v1.4.0
+ShapeKey 名の変更 ShirtOffTop->ShirtOffTop
+Open2 ShapeKeyを追加
+
+## 2025-10-28
+### v1.4.1
+Shirtボタンが動作しない問題を修正
 
 
 
