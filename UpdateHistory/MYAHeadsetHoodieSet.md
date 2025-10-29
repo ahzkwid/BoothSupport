@@ -16,7 +16,7 @@
 
 ### v1.1.0
 
-<img width="837" height="670" alt="image" src="https://github.com/user-attachments/assets/676b0630-7249-44aa-b907-e49e1368e45a" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/676b0630-7249-44aa-b907-e49e1368e45a" />
 
 
 Fit シェイプキーを追加
@@ -24,7 +24,7 @@ Fit シェイプキーを追加
 ## 2025-10-10
 
 ### v2.0.0
-<img width="702" height="674" alt="image" src="https://github.com/user-attachments/assets/e36181e2-71b7-4c03-a80f-14303505bd5e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e36181e2-71b7-4c03-a80f-14303505bd5e" />
 
 エク対応
 
@@ -59,6 +59,10 @@ ShirinkExample追加
 flat breast のサポートを終了し、代わりに big breast のサポートを開始します。
 メニューボタンを日本語表記に変更しました。
 
+
+## 2025-10-29
+### v2.2.1
+小さい胸で貫通してしまう現象を修正しました。
 
 
 
