@@ -70,6 +70,12 @@ flat breast のサポートを終了し、代わりに big breast のサポー�
 
 
 
+## 2025-11-02
+### v2.3.0
+ShapeKey 名の変更 ShirtOffTop->ShirtOffTop
+
+Open2 ShapeKeyを追加
+
 
 # シフォン
 
@@ -259,6 +265,7 @@ ShirinkExmapleを追加
 ## 2025-10-24
 ### v2.3.0
 ShapeKey 名の変更 ShirtOffTop->ShirtOffTop
+
 Open2 ShapeKeyを追加
 
 
