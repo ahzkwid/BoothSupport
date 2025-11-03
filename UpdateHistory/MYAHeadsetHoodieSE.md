@@ -45,6 +45,16 @@
 脇の下をきれいに修正
 
 
+
+## 2025-11-03
+### v1.1.1  
+<img width="698" height="345" alt="image" src="https://github.com/user-attachments/assets/9c061d42-9cf0-4a70-85cb-d28c9e2ada63" />
+
+下にメッシュが壊れたことを修正
+
+
+
+
 # 真冬  
 ## 2025-10-27  
 ### v1.0.0  
