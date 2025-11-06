@@ -235,3 +235,13 @@ Shortsアウトラインマスクの追加
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/cffa1101-777d-4064-bce0-6061cc6cd5bb" />
 
+
+
+## 2025-11-07
+### v1.1.0
+
+テクスチャがより目立つように修正
+
+
+
+
