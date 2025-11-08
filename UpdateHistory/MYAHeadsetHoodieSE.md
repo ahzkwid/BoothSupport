@@ -85,7 +85,7 @@ ShapeKey を Normal Breasts 基準に変更
 ### v1.0.0  
 公開  
 
-# ミルティナ  
+# ✪ ミルティナ ✪ 
 ## 2025-10-27  
 ### v1.0.0  
 公開  
@@ -93,6 +93,16 @@ ShapeKey を Normal Breasts 基準に変更
 ## 2025-10-30 
 ### v1.0.1  
 背が貫通するバグを修正
+
+
+## 2025-11-08
+### v1.0.2
+<img width="1067" height="724" alt="image" src="https://github.com/user-attachments/assets/9d51df0a-5ba9-4d0e-aa42-46cfab68bda1" />
+
+ストラップのない問題を修正
+kisekaeでアップロード不可問題を修正
+ShapeKey を BigBreast 基準に調整
+
 
 
 # なのでび  
@@ -105,10 +115,16 @@ ShapeKey を Normal Breasts 基準に変更
 ### v1.0.0  
 公開  
 
-# ルルネ  
+# ✪ ルルネ ✪ 
 ## 2025-10-27  
 ### v1.0.0  
 公開  
+
+
+## 2025-11-08
+### v1.0.1
+ShapeKeyを BigBreast 基準に調整
+
 
 # しお  
 ## 2025-10-27  
