@@ -12,6 +12,8 @@
 ### v1.0.1
 ShapeKey を Normal Breasts 基準に変更
 
+### v1.0.2
+bra自動オフを追加
 
 
 
