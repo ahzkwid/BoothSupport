@@ -14,6 +14,14 @@
 前に移動すると紐が跳ね上がる現象を緩和
 
 
+
+### v1.1.0
+<img width="646" height="552" alt="image" src="https://github.com/user-attachments/assets/5a97d1df-5c08-4670-8b23-1587c7459aba" />
+Narrow ShapeKey追加
+
+
+
+
 # ✪ Lapwing ✪
 
 ## 2025-11-04
