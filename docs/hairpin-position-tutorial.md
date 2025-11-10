@@ -8,6 +8,15 @@
 
 シェイプキーを使って位置を変更します。
 
+
+<img width="939" height="598" alt="image" src="https://github.com/user-attachments/assets/86e86951-eebc-4393-8455-eb66ccb4aed7" />
+
+![](https://github.com/user-attachments/assets/7d807fcb-e535-4d76-8a4c-360e87fbb873)
+
+シェイプキーがないときは、頭にあるボーンを調整します
+
+
+
 おわり
 
 
