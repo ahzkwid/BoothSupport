@@ -11,6 +11,20 @@
 
 
 
+# ✪ Lapwing ✪
+
+## 2025-11-07
+### v1.0.0
+公開
+
+
+## 2025-11-13
+### v1.0.1
+<img width="657" height="526" alt="image" src="https://github.com/user-attachments/assets/51d3ba4f-0b8d-4267-a48b-cc7c75f95eaf" />
+
+OPEN2の ShapeKey 変化
+
+
 
 # ✪ ショコラ ✪
 
