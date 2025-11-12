@@ -358,7 +358,7 @@ ShirinkExmapleを追加
 
 ## 2025-10-24
 ### v2.3.0
-ShapeKey 名の変更 ShirtOffTop->ShirtOffTop
+ShapeKey 名の変更 ShirtOffTop->ShirtOff
 
 Open2 ShapeKeyを追加
 
