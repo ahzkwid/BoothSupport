@@ -549,6 +549,14 @@ Shirinkフォルダをよく見える場所に移動
 
 
 
+## 2025-11-14
+### v1.7.0
+Close ShapeKeyを削除
+ShapeKeyをNormal Breast基準に設定
+
+
+
+
 
 
 
