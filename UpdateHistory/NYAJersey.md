@@ -3,6 +3,7 @@
 
 
 
+
 # ✪ リナシータ ✪
 
 ## 2025-11-13
@@ -23,6 +24,21 @@
 <img width="657" height="526" alt="image" src="https://github.com/user-attachments/assets/51d3ba4f-0b8d-4267-a48b-cc7c75f95eaf" />
 
 OPEN2の ShapeKey 変化
+
+
+
+
+# ✪ しらつめ ✪
+
+## 2025-09-29
+### v1.0.0
+公開
+
+## 2025-11-14
+### v1.1.0
+
+Basis ShapeKey削除
+Open3 ShapeKey追加
 
 
 
