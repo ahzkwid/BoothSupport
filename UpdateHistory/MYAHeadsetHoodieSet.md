@@ -96,6 +96,10 @@ kisekaeで胸サイズが調整できないバグを修正
 
 ## 2025-11-13
 ### v1.1.0
+
+<img width="589" height="344" alt="image" src="https://github.com/user-attachments/assets/9e2bb697-a29e-4d57-b6a3-21f2650688f5" />
+
+
 胸のウェイトを修正
 
 Close ShapeKey削除
