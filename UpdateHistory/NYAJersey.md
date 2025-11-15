@@ -264,7 +264,7 @@ Open3 ShapeKey追加
 
 #### 壊れたアウトラインの修正
 
-<img width="1205" height="685" alt="image" src="https://github.com/user-attachments/assets/c6590438-d50c-415a-8c56-7b5ab2d77d60" />
+<img width="1191" height="671" alt="image" src="https://github.com/user-attachments/assets/883a86f3-9000-4faf-8199-cbc460becf22" />
 
 #### 壊れたバックライト修正
 <img width="772" height="342" alt="image" src="https://github.com/user-attachments/assets/0e0ee5e7-91e7-4ef1-8af5-3174ee38632f" />
