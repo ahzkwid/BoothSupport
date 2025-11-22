@@ -323,6 +323,11 @@ EasyWear v2.9.2にアップデート
 
 
 
+## 2025-11-23
+### v3.0.2
+<img width="1158" height="717" alt="image" src="https://github.com/user-attachments/assets/4ad65c00-2fa1-46be-a2cf-fd305b140126" />
+
+貫通問題を修正
 
 
 
