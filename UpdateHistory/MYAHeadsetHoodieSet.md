@@ -582,6 +582,7 @@ Shirinkフォルダをよく見える場所に移動
 ## 2025-11-14
 ### v1.7.0
 Close ShapeKeyを削除
+
 ShapeKeyをNormal Breast基準に設定
 
 
@@ -591,6 +592,11 @@ ShapeKeyをNormal Breast基準に設定
 胸が動かない問題を修正
 
 
+## 2025-11-22
+### v1.7.2
+Open2シェイプキーをよりきれいに修正
+
+シェイプキーのデフォルト値を変更
 
 
 
