@@ -10,6 +10,17 @@
 ### v1.0.0
 公開
 
+
+
+## 2024-11-23
+### v1.0.1
+
+<img width="1128" height="724" alt="image" src="https://github.com/user-attachments/assets/1b12835e-1211-447f-a634-a853c08d5342" />
+腋の貫通問題を修正
+
+
+
+
 # ✪ 真央 ✪
 ## 2024-11-21
 ### v1.0.0
