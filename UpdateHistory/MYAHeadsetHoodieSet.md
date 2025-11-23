@@ -625,8 +625,9 @@ Open2シェイプキーをよりきれいに修正
 
 紐が埋まってしまう問題を修正
 
+<img width="1905" height="842" alt="image" src="https://github.com/user-attachments/assets/e3c493de-dcec-4e81-92a2-080a6a456353" />
 
-
+肩が貫通してしまう問題を修正
 
 
 
