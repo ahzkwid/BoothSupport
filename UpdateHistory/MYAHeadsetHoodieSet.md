@@ -618,6 +618,16 @@ Open2シェイプキーをよりきれいに修正
 
 
 
+## 2025-11-24
+### v1.7.3
+
+<img width="999" height="584" alt="image" src="https://github.com/user-attachments/assets/64503690-7d08-4037-a39d-e8b07d152568" />
+
+紐が埋まってしまう問題を修正
+
+
+
+
 
 
 # ✪ マヌカ ✪
