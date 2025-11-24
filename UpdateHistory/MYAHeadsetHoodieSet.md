@@ -510,6 +510,12 @@ Breast Normal シェイプキー デフォルト 100->50
 
 
 
+## 2025-11-25
+### v3.3.2
+<img width="997" height="602" alt="image" src="https://github.com/user-attachments/assets/39d14b87-8475-40af-a2c6-7ccc1cafa61f" />
+
+貫通問題の修正
+
 
 
 
