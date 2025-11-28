@@ -18,6 +18,10 @@
 Open2シェイプキーが動作しない問題を修正
 
 
+## 2025-11-25
+### v1.1.0
+White Linecat, Black Linecat, Burgundy, Navy プレハブ追加 (MYAパーカーREAL対応)
+
 
 
 # ✪ リナシータ ✪
