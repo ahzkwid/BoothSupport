@@ -42,8 +42,18 @@ Narrow ShapeKey追加
 
 
 
+## 2025-11-26
+### v1.2.0
+White Linecat, Black Linecat, Burgundy, Navy プレハブ追加 (MYAパーカーREAL対応)
 
 
+
+## 2025-12-05
+### v1.3.0
+<img width="209" height="205" alt="image" src="https://github.com/user-attachments/assets/647d4ad4-e9cf-4a58-a19b-d4f31b9d7ab1" />
+ジッパーが立っている問題を修正
+
+Close、Zipper1、Zipper2 シェイプキーを削除
 
 # ✪ Lapwing ✪
 
