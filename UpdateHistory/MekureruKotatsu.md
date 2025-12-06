@@ -38,3 +38,11 @@ Added LOD tessellation（最大3tess）
 ## 2025-09-23
 ### v1.4.1
 LoopbackCameraのMSAAが有効になっていた問題を修正
+
+## 2025-12-06
+### v1.5.0
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/4a2b1a6f-8df5-4bfd-bfdb-ff5fe1f6a9cd" />
+
+外観を改善
+
+手で布団をつまめる「Kotatsu Pickupble」を追加
