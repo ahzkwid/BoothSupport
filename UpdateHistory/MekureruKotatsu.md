@@ -46,3 +46,8 @@ LoopbackCameraのMSAAが有効になっていた問題を修正
 外観を改善
 
 手で布団をつまめる「Kotatsu Pickupble」を追加
+
+
+## 2025-12-07
+### v1.5.1
+LOD距離の増加
