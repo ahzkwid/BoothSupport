@@ -5,12 +5,20 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>{{ site.title | default: site.github.repository_name }}</title>
   <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css">
   <style>
-    .markdown-body img{
-      max-width:100%;
-      height:auto;
-      display:block;
+    body{
+      margin:0;
+      background:#ffffff;
+    }
+    .container{
+      max-width:980px;
       margin:0 auto;
+      padding:32px;
+    }
+    .site-header{
+      margin-bottom:32px;
+      text-align:center;
     }
     .site-header img{
       max-width:100%;
@@ -24,7 +32,7 @@
       <img src="{{ '/assets/header.png' | relative_url }}" alt="header">
     </a>
   </header>
-  <main class="markdown-body">
+  <main class="markdown-body container">
     {{ content }}
   </main>
 </body>
