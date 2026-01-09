@@ -1,4 +1,4 @@
-[<img width=100% alt="image" src="https://github.com/user-attachments/assets/4ab7590a-2321-4454-9e66-40ae11f388be" />](https://ahzkwid.booth.pm/)
+[<img alt="image" src="https://github.com/user-attachments/assets/4ab7590a-2321-4454-9e66-40ae11f388be" />](https://ahzkwid.booth.pm/)
 
 
 # VRChatアップロード不可問題まとめ
