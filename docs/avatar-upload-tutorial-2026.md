@@ -18,7 +18,7 @@ https://unity.com/download
 
 しかし、インストールできない場合
 
-[https://unity.com/kr/releases/editor/whats-new/2022.3.22](https://unity.com/kr/releases/editor/whats-new/2022.3.22)
+https://unity.com/releases/editor/whats-new/2022.3.22f1
 
 ここからダウンロードする
 
@@ -41,8 +41,33 @@ https://vrchat.com/home/download
 
 <img width="478" height="590" alt="image" src="https://github.com/user-attachments/assets/e48081c5-9984-4f9f-a0b2-28494a31d3fb" />
 
-<img width="454" height="269" alt="image" src="https://github.com/user-attachments/assets/8fada148-55c8-448e-9112-502234ef056c" />
+<img width="368" height="200" alt="image" src="https://github.com/user-attachments/assets/94a60ed1-01e4-453a-b7bc-d9c6e406226b" />
 
-<img width="558" height="304" alt="image" src="https://github.com/user-attachments/assets/a1b005e8-b3d2-405e-8130-0d0972b5e25a" />
+<img width="572" height="361" alt="image" src="https://github.com/user-attachments/assets/26aa27b7-4003-45d3-8b9d-b6af02a9d867" />
 
-<img width="479" height="425" alt="image" src="https://github.com/user-attachments/assets/bbb64e20-1612-45ad-af7d-3cfed5402038" />
+
+<img width="971" height="631" alt="image" src="https://github.com/user-attachments/assets/84357913-9b5d-43dc-851e-58b9a5ed37d4" />
+
+<img width="1192" height="634" alt="image" src="https://github.com/user-attachments/assets/2a4b72dc-7153-468d-880b-156822a74221" />
+
+
+<img width="1427" height="1398" alt="image" src="https://github.com/user-attachments/assets/1964c207-bd3a-4f2b-a1e4-1a5d3bba7ada" />
+
+<img width="961" height="802" alt="image" src="https://github.com/user-attachments/assets/32793e21-3b9e-4b9c-b088-0d13712ad7f1" />
+
+<img width="1310" height="1422" alt="image" src="https://github.com/user-attachments/assets/851aa742-5d0c-44f7-8bc4-cd8f9ffe034b" />
+
+<img width="875" height="593" alt="image" src="https://github.com/user-attachments/assets/0c708fd7-f3b2-4df3-b6ab-3de9c9775233" />
+
+<img width="489" height="282" alt="image" src="https://github.com/user-attachments/assets/0dba7089-24bf-45c0-83b8-88de8d61ae19" />
+
+<img width="511" height="764" alt="image" src="https://github.com/user-attachments/assets/6ccac0f6-4e56-4953-93e9-37b34ecf9e1c" />
+
+<img width="528" height="240" alt="image" src="https://github.com/user-attachments/assets/c5fdc360-e8f4-4ed0-8897-cca777c006bb" />
+
+
+<img width="726" height="470" alt="image" src="https://github.com/user-attachments/assets/4b999370-5483-4279-887e-b8bb3f389ad5" />
+
+<img width="516" height="929" alt="image" src="https://github.com/user-attachments/assets/d423266b-adb5-4e18-8e24-cb761f3fda71" />
+
+
