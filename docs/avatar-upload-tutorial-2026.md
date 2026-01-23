@@ -63,6 +63,11 @@ Open Project
 
 <img width="1427" height="1398" alt="image" src="https://github.com/user-attachments/assets/1964c207-bd3a-4f2b-a1e4-1a5d3bba7ada" />
 
+キャラクター : https://komado.booth.pm/items/7770415
+
+服 : https://booth.pm/ja/items/5725322
+
+シェーダー : https://lilxyzw.booth.pm/items/3087170
 
 ブースからダウンロードしたunitypackageを入れる
 
