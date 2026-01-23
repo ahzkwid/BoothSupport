@@ -7,6 +7,9 @@ https://ahzkwid.github.io/BoothSupport/
 ## 着る方法
 https://ahzkwid.github.io/BoothSupport/docs/outfit-apply-tutorial
 
+## VRChatアバターアップロード方法2026
+https://ahzkwid.github.io/BoothSupport/docs/avatar-upload-tutorial-2026
+
 ## カラーマスクで色を変更する方法
 https://ahzkwid.github.io/BoothSupport/docs/color-mask-tutorial
 
