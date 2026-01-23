@@ -1,48 +1,55 @@
 <!doctype html>
 <html lang="{{ site.lang | default: 'ja' }}">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>{{ site.title | default: site.github.repository_name }}</title>
-  <link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css">
-  <style>
-    body{
-      margin:0;
-      background:#000000 url("{{ '/assets/bg.png' | relative_url }}") center/cover no-repeat fixed;
-    }
-    .container{
-      max-width:980px;
-      margin:0 auto;
-      padding:32px;
-      background:#ffffff;
-    }
-    .site-header{
-      margin-bottom:32px;
-      text-align:center;
-    }
-    .site-header img{
-      max-width:100%;
-      height:auto !important;
-    }
-    .markdown-body h1,
-    .markdown-body h2,
-    .markdown-body h3,
-    .markdown-body h4,
-    .markdown-body h5,
-    .markdown-body h6{
-      margin-top:3em;
-    }
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ site.title | default: site.github.repository_name }}</title>
+<link rel="icon" href="{{ '/assets/favicon.png' | relative_url }}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.5.0/github-markdown.min.css">
+<style>
+body{
+  margin:0;
+  background:#000000 url("{{ '/assets/bg.png' | relative_url }}") center/cover no-repeat fixed;
+}
+.container{
+  max-width:980px;
+  margin:0 auto;
+  padding:32px;
+  background:#ffffff;
+}
+.site-header{
+  margin-bottom:32px;
+  text-align:center;
+}
+.site-header img{
+  width:100%;
+  height:auto;
+  max-width:100%;
+}
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6{
+  margin-top:3em;
+}
+</style>
 </head>
 <body>
-  <header class="site-header">
-    <a href="https://ahzkwid.booth.pm/" target="_blank" rel="noopener">
-      <img src="{{ '/assets/header.png' | relative_url }}" alt="header">
-    </a>
-  </header>
-  <main class="markdown-body container">
-    {{ content }}
-  </main>
+<header class="site-header">
+  <a href="https://ahzkwid.booth.pm/" target="_blank" rel="noopener">
+    <img src="{{ '/assets/header.png' | relative_url }}" alt="header">
+  </a>
+</header>
+<main class="markdown-body container">
+  {{ content }}
+</main>
+<script>
+document.querySelectorAll('.site-header img').forEach(img=>{
+  img.removeAttribute('width');
+  img.removeAttribute('height');
+});
+</script>
 </body>
 </html>
