@@ -85,7 +85,7 @@ Open Project
 
 Prefab の場所は製品ごとに違うので注意。
 
-<img width="1310" height="1422" alt="image" src="https://github.com/user-attachments/assets/851aa742-5d0c-44f7-8bc4-cd8f9ffe034b" />
+<img alt="image" src="https://github.com/user-attachments/assets/851aa742-5d0c-44f7-8bc4-cd8f9ffe034b" />
 
 衣装をキャラにドラッグして入れる。
 
