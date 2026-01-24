@@ -51,3 +51,8 @@ LoopbackCameraのMSAAが有効になっていた問題を修正
 ## 2025-12-07
 ### v1.5.1
 LOD距離の増加
+
+
+## 2026-01-24
+### v1.6.0
+Kotatsu PickupbleをKotatsu Pickupble（Local）とKotatsu Pickupble（Global）に分離 #28
