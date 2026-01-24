@@ -55,4 +55,4 @@ LOD距離の増加
 
 ## 2026-01-24
 ### v1.6.0
-Kotatsu PickupbleをKotatsu Pickupble（Local）とKotatsu Pickupble（Global）に分離 #28
+Kotatsu PickupbleをKotatsu Pickupble（Local）とKotatsu Pickupble（Global）に分離 [#28](https://github.com/ahzkwid/BoothSupport/issues/28)
