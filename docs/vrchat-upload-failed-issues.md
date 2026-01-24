@@ -20,8 +20,7 @@ VRC SDKを最新バージョンに更新します。
 
 ## デバイス名が英語でない場合に発生
 
-<img width="572" height="817" alt="image" src="https://github.com/user-attachments/assets/585dbc30-37a2-4161-87d2-18c8dd21b98d" />
-
+<img width="287" height="638" alt="image" src="https://github.com/user-attachments/assets/a8a6c0c3-2752-4785-bc1a-e32a121de8df" />
 
 <img width="890" height="582" alt="image" src="https://github.com/user-attachments/assets/a241f236-2269-4a0c-868b-2494c4285652" />
 
