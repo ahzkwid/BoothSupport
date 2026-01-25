@@ -48,9 +48,17 @@ document.querySelectorAll('.site-header img').forEach(img=>{
 
   
 //auto link
-document.querySelectorAll('.markdown-body').forEach(el=>{
-  el.innerHTML=el.innerHTML.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');
-});
+const walker=document.createTreeWalker(document.querySelector('.markdown-body'),NodeFilter.SHOW_TEXT);
+let n;
+while(n=walker.nextNode()){
+  if(n.parentNode.tagName==='A')continue;
+  const f=document.createDocumentFragment();
+  n.textContent.split(/(https?:\/\/[^\s<]+)/g).forEach(t=>{
+    if(/^https?:\/\//.test(t)){const a=document.createElement('a');a.href=t;a.textContent=t;a.target='_blank';a.rel='noopener';f.appendChild(a);}
+    else f.appendChild(document.createTextNode(t));
+  });
+  n.parentNode.replaceChild(f,n);
+}
 </script>
 </body>
 </html>
