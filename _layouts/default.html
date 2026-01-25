@@ -51,24 +51,15 @@ document.querySelectorAll('.site-header img').forEach(img=>{
 
 
 <!-- Auto link -->
-  <script src="https://cdn.jsdelivr.net/npm/linkifyjs@4.1.3/dist/linkify.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/linkifyjs@4.1.3/dist/linkify.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/linkifyjs@4.1.3/dist/linkify-html.min.js"></script>
-
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const container = document.querySelector('.markdown-body');
-    if (container) {
-      // 1. 현재 HTML 내용을 가져와서 링크화된 문자열로 변환
-      const linkedContent = linkifyHtml(container.innerHTML, {
-        target: '_blank',
-        rel: 'noopener',
-        validate: true
-      });
-      // 2. 변환된 내용을 다시 컨테이너에 삽입
-      container.innerHTML = linkedContent;
-    }
-  });
+const md=document.querySelector('.markdown-body');
+if(md){
+  md.innerHTML=linkifyHtml(md.innerHTML,{target:'_blank',rel:'noopener'});
+}
 </script>
+
 
 
 
