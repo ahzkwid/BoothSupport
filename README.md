@@ -4,6 +4,9 @@
 https://ahzkwid.github.io/BoothSupport/
 
 # 説明書
+https://ahzkwid.github.io/BoothSupport/docs/
+
+
 ## 着る方法
 https://ahzkwid.github.io/BoothSupport/docs/outfit-apply-tutorial
 
