@@ -21,11 +21,6 @@ body{
   margin-bottom:32px;
   text-align:center;
 }
-.site-header img{
-  width:100%;
-  height:auto;
-  max-width:100%;
-}
 .markdown-body h1,
 .markdown-body h2,
 .markdown-body h3,
@@ -49,6 +44,12 @@ body{
 document.querySelectorAll('.site-header img').forEach(img=>{
   img.removeAttribute('width');
   img.removeAttribute('height');
+});
+
+  
+//auto link
+document.querySelectorAll('.markdown-body').forEach(el=>{
+  el.innerHTML=el.innerHTML.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');
 });
 </script>
 </body>
