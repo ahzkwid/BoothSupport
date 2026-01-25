@@ -2,7 +2,7 @@
 
 
 
-# 利用方法
+# BOOTHギフト利用方法
 
 <img width="848" height="486" alt="image" src="https://github.com/user-attachments/assets/e75c8f8c-2194-427b-b1d5-af139bdee6d7" />
 
