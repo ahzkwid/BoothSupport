@@ -214,6 +214,25 @@ Could not fetch worlds, with error - "Missing Credentials"
 
 
 
+## 存在しないパラメーターがアップロードを妨げるとき
+
+<img width="491" height="53" alt="image" src="https://github.com/user-attachments/assets/ddbddac6-398e-44ab-8341-97e169bc7937" />
+
+
+画像のように、該当パラメーターが誤って割り当てられていると表示される。
+
+<img width="468" height="381" alt="image" src="https://github.com/user-attachments/assets/dce662ee-d496-4c16-9ffd-cdcf71f16b84" />
+
+しかし、どう探してもそのパラメーターはどこにも存在しない。
+
+<img width="448" height="473" alt="image" src="https://github.com/user-attachments/assets/05230f8d-e1c4-4239-8838-6aad7bc59aeb" />
+
+原因は、そのパラメーターが subParameters に隠れていること。
+タイプを切り替えながら見つけ出し、削除すれば解決する。
+
+
+
+
 
 
 
