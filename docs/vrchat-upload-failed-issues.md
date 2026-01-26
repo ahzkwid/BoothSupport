@@ -216,6 +216,12 @@ Could not fetch worlds, with error - "Missing Credentials"
 
 ## 存在しないパラメーターがアップロードを妨げるとき
 
+```
+VRCExpressionsMenu uses a parameter that is not defined.
+Parameter: XXX
+```
+
+
 <img width="491" height="53" alt="image" src="https://github.com/user-attachments/assets/ddbddac6-398e-44ab-8341-97e169bc7937" />
 
 
