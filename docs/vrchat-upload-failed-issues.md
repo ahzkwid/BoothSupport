@@ -238,6 +238,13 @@ Parameter: XXX
 
 
 
+### VRCJunkCleanerを使用した解決
+<img width="355" height="105" alt="image" src="https://github.com/user-attachments/assets/b963ff48-4e92-447f-89a8-efb88f6a3af7" />
+
+[https://ahzkwid.booth.pm/items/5463945](https://ahzkwid.booth.pm/items/5463945)
+
+一つ一つ探して削除するのが難しいなら、AhzkwidAvatarToolsのVRCJunkCleanerを使ってフォルダを指定し、Cleanボタンを押して消すこともできる。
+
 
 
 
