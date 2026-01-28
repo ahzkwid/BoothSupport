@@ -19,6 +19,8 @@
 
 
 ### エフェクトを追加
+<img width="413" height="348" alt="image" src="https://github.com/user-attachments/assets/4594cc7f-0f2b-404f-bbe3-3422b22e3701" />
+
 <img width="370" height="626" alt="image" src="https://github.com/user-attachments/assets/20324e13-51c5-49d3-9148-d7a9656f3d81" />
 
 
