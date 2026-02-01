@@ -23,3 +23,11 @@
 ## VRChatアップロード不可問題まとめ
 [https://ahzkwid.github.io/BoothSupport/docs/vrchat-upload-failed-issues](https://ahzkwid.github.io/BoothSupport/docs/vrchat-upload-failed-issues)
 
+
+
+
+
+# TEST
+
+## テクスチャメモリとパフォーマンスの関連性
+[https://ahzkwid.github.io/BoothSupport/docs/texture-memory-test](https://ahzkwid.github.io/BoothSupport/docs/texture-memory-test)
