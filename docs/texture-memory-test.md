@@ -1,4 +1,5 @@
 # テクスチャメモリとパフォーマンスの関連性
+date: 2024-02-27-09-09
 
 メモリは処理装置ではなく記憶装置なのに処理速度を向上させるという噂がある
 
@@ -118,24 +119,22 @@ VRAMが増えるのはパフォーマンス向上ではなくAI駆動時のメ�
 
 AI駆動時にメモリが不足すると駆動自体ができなくなる
 
-関連文書は下の方
-
-[chat:AI画像認識方法]
 
 
--After
+# After
 
-<img width="281" height="55" alt="image" src="https://github.com/user-attachments/assets/64cc4421-786d-42cd-82a3-46b6c1677beb" />
+## 2025. 12. 2.
 
-今回のテストでは、テクスチャのうち約5%に Mip Streaming が含まれていましたが、
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gFlZwtI02Qk?si=AUEohurvdBs8vnbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-今回は Mip Streaming を完全に削除してロードしたにもかかわらず、同じ結果が得られました。
+<img width="608" height="374" alt="image" src="https://github.com/user-attachments/assets/19d33c4d-e1c7-4506-b084-bc517b793813" />
 
-え？ 自分が学んできた知識では、Mip Streaming は VRAM 調整の要だと思っていたのに、Mip Streaming がなくてもそうなるのか？
 
-もしかすると本当に Unity エンジン自体が VRAM のロード制限を掛けているのだろうか。
 
-ひとつ確かなのは、Unity が優れたエンジンであるということであり、少なくとも Unity 内においては、テクスチャメモリがグラフィックカード容量の 2 倍に達しても性能に大きな影響はないことを改めて確認できた、ということです。
+その後、もう一度詳しくテストしてみたところ、4KテクスチャはVRAMをたった42.7MBしか使用していなかった。
+しかも、ストリーミングミップマップのMemory Budget機能によって、合計VRAM使用量は500MB以下に自動で調整されている。
+これでは影響が出ないのも当然だった。
+
 
 
 
