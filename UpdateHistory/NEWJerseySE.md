@@ -12,7 +12,7 @@
 
 # 2025-02-03
 ## v1.0.1
-<img width="561" height="800" alt="image" src="https://github.com/user-attachments/assets/53d32c65-10c7-4521-bea1-80b9e868153e" />
-<img width="703" height="859" alt="image" src="https://github.com/user-attachments/assets/e675ccef-340f-4fe8-a624-6d9d0ec5de10" />
+<img width="586" height="169" alt="image" src="https://github.com/user-attachments/assets/e90185b6-0f99-4a56-acdc-907cabcd1b76" />
+
 
 肩の貫通問題を修正しました。
