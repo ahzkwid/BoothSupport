@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahzkwid.github.io/BoothSupport/docs/sitemap.xml
