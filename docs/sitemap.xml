@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://ahzkwid.github.io/BoothSupport/</loc></url>
-  <url><loc>https://ahzkwid.github.io/BoothSupport/docs/outfit-apply-tutorial</loc></url>
-  <url><loc>https://ahzkwid.github.io/BoothSupport/docs/avatar-upload-tutorial-2026</loc></url>
-  <url><loc>https://ahzkwid.github.io/BoothSupport/docs/color-mask-tutorial</loc></url>
-  <url><loc>https://ahzkwid.github.io/BoothSupport/docs/hairpin-position-tutorial</loc></url>
-  <url><loc>https://ahzkwid.github.io/BoothSupport/docs/booth-gift-tutorial</loc></url>
-  <url><loc>https://ahzkwid.github.io/BoothSupport/docs/vrchat-upload-failed-issues</loc></url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/</loc>
+  </url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/docs/outfit-apply-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/docs/avatar-upload-tutorial-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/docs/color-mask-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/docs/hairpin-position-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/docs/booth-gift-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://ahzkwid.github.io/BoothSupport/docs/vrchat-upload-failed-issues.html</loc>
+  </url>
 </urlset>
