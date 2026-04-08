@@ -260,6 +260,16 @@ Open2 シェイプキーをきれいに修正
 
 
 
+## 2026-04-08
+### v2.6.0
+
+太ももボタン追加 #35
+
+<img width="457" height="356" alt="image" src="https://github.com/user-attachments/assets/7503cf2e-a326-439f-b539-27fdb7923709" />
+
+
+
+
 
 # シフォン
 
