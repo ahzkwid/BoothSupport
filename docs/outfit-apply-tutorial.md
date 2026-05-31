@@ -5,13 +5,14 @@
 
 
 
-まず衣装.zipとTextures.zipをダウンロードしてアップロードします。
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5f0ef2b8-90fc-4ca2-b8e9-096e91f38bed" />
 
-キャラクターを配置します。
+まずキャラクターを配置します。
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/97d9a37e-9d82-4557-9f3e-777ed1127736" />
+
+衣装.zipとTextures.zipをダウンロードしてアップロードします。
 
 衣装をドラッグ＆ドロップします。
 
